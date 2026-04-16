@@ -24,8 +24,8 @@ This Python program collects user details and displays a friendly welcome messag
 - Storage using variables
 - Output section
 
-##  Screenshot
-(Add screenshot here)
+## Screenshot
+![Output](screenshot.png)
 
 ##  Requirements Met
 - Used input()
