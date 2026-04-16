@@ -25,7 +25,7 @@ This Python program collects user details and displays a friendly welcome messag
 - Output section
 
 ## Screenshot
-![Output](screenshot.png)
+![Output](screenshot.png.png)
 
 ##  Requirements Met
 - Used input()
